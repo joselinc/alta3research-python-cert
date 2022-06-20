@@ -11,11 +11,11 @@ on a live system.
 ### Prerequisites
 
 1. Install Python 3.x, and the Python 3.x package manager (pip). 
-  sudo apt install python3-pip -y
+   **sudo apt install python3-pip -y**
 The latest Python builds for Windows, Mac OS X, Linux/UNIX are available at: https://www.python.org/downloads/
 
 2. Install crayons package
-   python3 -m pip install crayons
+   **python3 -m pip install crayons**
 
 ## Built With
 
